@@ -1,0 +1,9 @@
+atlas-run-standalone		 start JIRA.
+atlas-run-standalone --product jira
+atlas-create-jira-plugin 
+atlas-create-jira-plugin-module
+atlas-mvn eclipse:eclipse
+
+
+
+5456556458drty
