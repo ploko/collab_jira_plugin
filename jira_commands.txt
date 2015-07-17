@@ -3,6 +3,7 @@ atlas-run-standalone --product jira
 atlas-create-jira-plugin 
 atlas-create-jira-plugin-module
 atlas-mvn eclipse:eclipse
+ew commands
 
 
 
