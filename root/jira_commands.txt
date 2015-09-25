@@ -5,4 +5,4 @@ atlas-create-jira-plugin-module
 atlas-mvn eclipse:eclipse
 
 
-
+line to root/jira_commands (master)
