@@ -6,7 +6,11 @@ atlas-mvn eclipse:eclipse
 ew commands
 asxasx
 
+
 new line to test branch
+
+Added line to master
+
 
 
 
